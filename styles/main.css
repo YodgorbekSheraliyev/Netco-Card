@@ -93,7 +93,6 @@ ul {
   width: 270px;
   height: 500px;
   box-sizing: border-box;
-  padding-left: 10px;
   box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.2);
 }
 .discounts__section:hover {
