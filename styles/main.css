@@ -41,6 +41,11 @@ ul {
   font-size: 12px;
 }
 
+@media only screen and (min-width: 576px) {
+  .header__list-item:nth-child(2), .header__list-item:nth-child(3) {
+    display: none;
+  }
+}
 .hero {
   position: relative;
   text-align: center;
@@ -171,6 +176,7 @@ ul {
   gap: 10px;
 }
 .footer__sublist-item {
-  -moz-column-gap: 5px;
-       column-gap: 5px;
-}/*# sourceMappingURL=main.css.map */
+  column-gap: 5px;
+}
+
+/*# sourceMappingURL=main.css.map */

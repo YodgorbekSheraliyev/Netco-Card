@@ -27,6 +27,23 @@
     }
   }
 }
+@media only screen and (min-width:576px) {
+  .header__list-item:nth-child(2), .header__list-item:nth-child(3) {
+    display: none;
+  }
+}
+@media only screen and (min-width:768px) {
+  .header__list-item:nth-child(2) {
+    display: none;
+  }
+}
+@media only screen and (min-width:992px) {
+ 
+  
+}
+@media only screen and (min-width:1200px) {
+ 
+}
 // hero
 .hero {
   position: relative;
