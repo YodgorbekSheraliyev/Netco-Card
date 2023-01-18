@@ -20,6 +20,10 @@ ul {
   padding: 30px 0;
 }
 
+.container {
+  padding-left: 0;
+}
+
 .header__list, .footer__sublist-item, .footer__sublist-item .header__link, .footer__sublist-item .header__text-last, .footer__sublist, .footer__sublist .header__link, .footer__sublist .header__text-last, .footer__list, .footer__list .header__link, .footer__list .header__text-last, .discounts, .discounts .header__link, .discounts .header__text-last, .hero__menu, .hero__menu .header__link, .hero__menu .header__text-last, .header__list .header__link, .header__list .header__text-last {
   display: flex;
   justify-content: space-between;
