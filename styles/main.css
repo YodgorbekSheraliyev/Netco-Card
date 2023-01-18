@@ -83,8 +83,6 @@ ul {
 .discounts {
   text-align: left;
   width: 100%;
-  align-items: center;
-  padding-left: 0;
   gap: 10px;
   padding-bottom: 100px;
   flex-wrap: wrap;
